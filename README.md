@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+14 Feb, 2021
 
 ### Project Title
-Replace the Project Title
+Bike Share Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+Analyze the data to understand bike share usage.
 
 ### Files used
-Include the files used
+bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+nishantk12
 
